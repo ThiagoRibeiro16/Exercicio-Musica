@@ -12,7 +12,7 @@ namespace Exercicio_Musica
 
             Console.WriteLine("Recairei");
             Console.WriteLine();
-            Console.ForegroundColor=ConsoleColor.DarkGreen;
+            Console.ForegroundColor=ConsoleColor.White;
 
             Console.WriteLine("Já faz uma semana que eu tô limpo de você");
             Console.WriteLine("Iê iê, iê iê");
@@ -38,7 +38,7 @@ namespace Exercicio_Musica
             Console.WriteLine("Senão recairei");
             Console.WriteLine();
 
-            Console.ForegroundColor=ConsoleColor.DarkGreen;
+            Console.ForegroundColor=ConsoleColor.White;
             Console.WriteLine("Já faz uma semana que eu tô limpo de você");
             Console.WriteLine("Iê iê, iê iê");
             Console.WriteLine("E de olhar os seus stories, não sinto saudade");
