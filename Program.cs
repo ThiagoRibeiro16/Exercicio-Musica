@@ -67,8 +67,8 @@ namespace Exercicio_Musica
             Console.WriteLine("Certeza, eu superei");
             Console.WriteLine("Mas não manda mensagem outra vez");
             Console.WriteLine("Senão recairei");
-            Console.ForegroundColor=ConsoleColor.White;
             
+            Console.ResetColor();
 
 
 
